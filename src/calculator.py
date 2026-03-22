@@ -6,3 +6,12 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
+
+def power(base, exp):
+    return  base ** exp
+
+
+m = add(2, 3)
+n = subtract(5, 2)
+
+print(m)

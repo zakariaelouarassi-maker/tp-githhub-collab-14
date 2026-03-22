@@ -7,7 +7,7 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-def puissance(base, exp):
+def power(base, exp):
     return  base ** exp
 
 
